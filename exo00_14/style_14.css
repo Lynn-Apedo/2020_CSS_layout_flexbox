@@ -30,20 +30,23 @@ header {
 nav {
     padding: 2% 1%;
     background-color: #7cb71c;
-    width: 20%;
-    float: left;
+    width: 20vw;
+    float: right;
 }
 
 main {
     padding: 1%;
-    width: 60%;
-    float: left;
+    width: 60vw;
+    float: right;
 }
 aside {
     padding: 1%;
     background-color: #147fa9 ;
-    width: 20%;
-    float: right;
+    width: 20vw;
+    float: left;
+}
+p {
+    line-height: 25px;
 }
 
 footer {
